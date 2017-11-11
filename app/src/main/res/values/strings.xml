@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShowDemo</string>
+    <string name="article_selection">文章精选</string>
+    <string name="produce_show">产品展示</string>
+</resources>
